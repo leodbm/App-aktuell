@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Layout_ActivitiyandFragments</string>
+    <string name="freeRunning">Run</string>
+    <string name="start">start</string>
+    <string name="stopp">stopp</string>
+    <string name="settings">SETTINGS</string>
+    <string name="language">Sprache</string>
+    <string name="weight">Größe</string>
+    <string name="height">Gewicht</string>
+    <string name="gender">Geschlecht</string>
+    <string name="german">deutsch</string>
+    <string name="english">english</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="track">TRACK</string>
+    <string name="time">00:00</string>
+    <string name="route">00,00 km</string>
+    <string name="pace">00:00 min/km</string>
+    <string name="weather">sunny</string>
+    <string name="mood">happy</string>
+    <string name="calories">000 kcal</string>
+    <string name="day">Monday, 22.07.2021</string>
+    <string name="motivation">Diesen Monat schon x Läufe!</string>
+
+</resources>
